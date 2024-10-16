@@ -2638,10 +2638,10 @@ code-point-at@^1.0.0:
   resolved "https://registry.yarnpkg.com/code-point-at/-/code-point-at-1.1.0.tgz#0d070b4d043a5bea33a2f1a40e2edb3d9a4ccf77"
   integrity sha1-DQcLTQQ6W+ozovGkDi7bPZpMz3c=
 
-codecov@^2.2.0:
+codecov@^2.3.1:
   version "2.3.1"
-  resolved "https://registry.yarnpkg.com/codecov/-/codecov-2.3.1.tgz#7dda945cd58a1f6081025b5b03ee01a2ef20f86e"
-  integrity sha1-fdqUXNWKH2CBAltbA+4Bou8g+G4=
+  resolved "https://nexus.core.cvent.org/nexus/repository/npm-public/codecov/-/codecov-2.3.1.tgz#7dda945cd58a1f6081025b5b03ee01a2ef20f86e"
+  integrity sha512-nk86gjbYHGia605QaH2xibxPzcTUxNvsVX0gW7nsKSItcZyBeuUeMvGKN5BPZUsI7sJsuhBva70TGjAHus/D+Q==
   dependencies:
     argv "0.0.2"
     request "2.77.0"
